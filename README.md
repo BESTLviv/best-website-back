@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Front-End part of Best Website
+Back-End part of Best Website
 
 to be continued... 
 
