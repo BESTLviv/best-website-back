@@ -35,7 +35,7 @@ to be continued...
 
 Frameworks/libraries.
 
-* [Spring boot](https://www.youtube.com/playlist?list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t)(https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ&index=1)
+* [Spring boot](https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ&index=1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
