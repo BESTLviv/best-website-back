@@ -2,7 +2,6 @@ package best.lviv.website.service.com.controller;
 
 import best.lviv.website.service.com.model.User;
 import best.lviv.website.service.com.service.UserService;
-import org.apache.catalina.LifecycleState;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
